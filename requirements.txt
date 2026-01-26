@@ -1,0 +1,4 @@
+setuptools==69.0.3
+-e .
+pandas
+numpy

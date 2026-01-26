@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: machinelearning_project
+Version: 0.0.1
+Author: Dhanashree
+Author-email: dhanashreebansode70@gmail.com
+Requires-Dist: setuptools==69.0.3
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

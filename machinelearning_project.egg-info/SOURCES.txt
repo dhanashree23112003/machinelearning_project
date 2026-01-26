@@ -1,0 +1,8 @@
+README.md
+setup.py
+machinelearning_project.egg-info/PKG-INFO
+machinelearning_project.egg-info/SOURCES.txt
+machinelearning_project.egg-info/dependency_links.txt
+machinelearning_project.egg-info/requires.txt
+machinelearning_project.egg-info/top_level.txt
+src/__init__.py
