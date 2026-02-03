@@ -1,4 +1,9 @@
 setuptools==69.0.3
--e .
+#-e .
 pandas
 numpy
+matplotlib
+seaborn
+scikit-learn
+catboost
+xgboost
